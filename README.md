@@ -1,5 +1,5 @@
 # My website
-This is the repo containing my github pages website.
+This is the repo containing my github pages site.
 # [Site](https://orangetreefrog4.github.io)
 [The website is at the subdomain
 https://orangetreefrog4.github.io/](https://orangetreefrog4.github.io/)
