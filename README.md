@@ -1,6 +1,8 @@
 # My website
+![https://img.shields.io/badge/built_by_orangetreefrog4-orange?logo=github](https://img.shields.io/badge/built_by_orangetreefrog4-orange?logo=github)
+
 This is the repo containing my github pages site.
-# [Site](https://orangetreefrog4.github.io)
+# Site
 [The website is at the subdomain
 https://orangetreefrog4.github.io/](https://orangetreefrog4.github.io/)
 
